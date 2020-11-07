@@ -1,5 +1,5 @@
 # client_server_portable
-Portable Linux-Windows Client-Server sockets-based code
+TCP/IP Linux and Windows sockets client / Server example.
 
 
 ## Environment
