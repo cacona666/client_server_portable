@@ -8,7 +8,7 @@ Tested in Ubuntu 18.04 with mingw and wine
 sudo apt-get install mingw-w64 
 sudo apt install wine-stable
 
-##Example
+## Example
 
 The starting example was taken from here:
 
