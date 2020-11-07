@@ -5,8 +5,10 @@ TCP/IP Linux and Windows sockets client / Server example.
 ## Environment
 
 Tested in Ubuntu 18.04 with mingw and wine
+```
 sudo apt-get install mingw-w64 
 sudo apt install wine-stable
+```
 
 ## Example
 
